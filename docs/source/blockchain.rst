@@ -80,7 +80,7 @@ Why is a Blockchain useful?
 The transactional networks of today are little more than slightly updated
 versions of networks that have existed since business records have been kept.
 The members of a **Business Network** transact with each other, but they maintain
-separate records of their transactions. And the things they’re transacting –
+separate records of their transactions. Moreover, the things they’re transacting –
 whether it’s Flemish tapestries in the 16th century or the securities of today
 – must have their provenance established each time they’re sold to ensure that
 the business selling an item possesses a chain of title verifying their
